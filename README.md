@@ -703,5 +703,3 @@ Batasan yang perlu dijelaskan saat presentasi:
 | `render.yaml` | Konfigurasi deployment Render. |
 | `gui-plan-ID.md` | Penjelasan desain GUI. |
 | `project-overview-ID.md` | Dokumen gambaran umum proyek dan referensi presentasi. |
-
-Dokumen ini dapat digunakan sebagai referensi untuk menyusun slide **Presentasi II** dan laporan akhir, khususnya bagian **Implementasi SQL**, **Implementasi GUI sederhana**, **Testing**, dan **Kesimpulan/Insight**.
