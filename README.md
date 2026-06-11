@@ -1,4 +1,4 @@
-# Gambaran Umum Proyek – Database Penjualan Tiket Penerbangan Domestik Indonesia dan Dashboard Manajer
+# Simulasi Database Penjualan Tiket Penerbangan Domestik Indonesia dan Dashboard Manajer
 
 ## Daftar Isi
 
